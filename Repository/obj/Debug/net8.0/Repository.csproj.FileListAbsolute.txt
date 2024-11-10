@@ -1,0 +1,17 @@
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\BusinessObjects.dll
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\DAO.dll
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\DAO.pdb
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\bin\Debug\net8.0\BusinessObjects.pdb
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\vuhuu\source\repos\PRN221_PawFundSystem_Group5\Repository\obj\Debug\net8.0\ref\Repository.dll
